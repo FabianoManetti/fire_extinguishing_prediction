@@ -14,7 +14,7 @@
 
 # Definition
 
-In order to **predict the functionality status of acoustic fire extinguisher**, it was asked to create a machine learning model based on different features.
+In order to **predict the functionality status of acoustic fire extinguishers**, it was asked to create a machine learning model based on different features.
 
 # Dataset
 
