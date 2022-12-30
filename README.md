@@ -84,7 +84,7 @@ The feature `SIZE` has negative correlation with `STATUS` and seems to be a **go
 
 For our classification project, we decided to test the following machine learning models: **Nayve Bayes**, **Logistic Regression**, **Random Forest** and **Adaboost**.
 
-For our first running, we considered all the predictor features from the dataset, which were trained across a 5-fold-cross validation method (in order to avoid randomness of evaluation). Since the range among the features is relatively similar, we opted to **not normalize or scale** the data.
+For our first running, we considered all the predictor features from the dataset, which were trained across a 5-fold-cross validation method (in order to avoid randomness of evaluation). Since the range among the features was relatively similar, we opted to **not normalize or scale** the data.
 
 # Evaluating the models
 
@@ -104,4 +104,4 @@ As we could previously observe in our exploratory analysis, the feature `DESIBEL
 
 For our last step, we trained our final prediction model and evaluated its response.
 
-We were able to slight improve our **Precision** metric and achieved a value of **96.9%**. The model was now ready to be deployed to operational usage.
+We were able to slight improve our **Precision** metric and achieved a value of **96.9%**. The model was then ready to be deployed to operational usage.
