@@ -5,4 +5,5 @@
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"><img>
 </div>
 
-**This is a project of the first training course of `Data Science Academy` Data Scientist program.**(https://www.datascienceacademy.com.br/)
+
+**This is a project of the first training course of (https://www.datascienceacademy.com.br/) Data Scientist program.**
