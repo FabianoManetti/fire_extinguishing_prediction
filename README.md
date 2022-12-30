@@ -84,13 +84,13 @@ The feature `SIZE` has negative correlation with `STATUS` and seems to be a **go
 
 For our classification project, we decided to test the following machine learning models: **Nayve Bayes**, **Logistic Regression**, **Random Forest** and **Adaboost**.
 
-For our first running, we will consider all the predictor features from the dataset, which will trained across a 5-fold-cross validation method (in order to avoid randomness of evaluation). Since the range among the features is relatively similar, we opted to **not normalize or scale** the data.
+For our first running, we considered all the predictor features from the dataset, which were trained across a 5-fold-cross validation method (in order to avoid randomness of evaluation). Since the range among the features is relatively similar, we opted to **not normalize or scale** the data.
 
 # Evaluating the models
 
-Our main objective for this project is to deliver a model that will be used to predict if a certain acoustic fire extinguisher is able to work properly.
+Our main objective for this project was to deliver a model that would be used to predict if a certain acoustic fire extinguisher was able to work properly.
 
-In this case, we are concerned in reducing the false positives or in other words, to maximize the **Precision** metric. We will make use of the Confusion Matrix for this purpose.
+In this case, we are concerned in reducing the false positives or in other words, to maximize the **Precision** metric. We made use of the Confusion Matrix for this purpose.
 
 According to the results and the previously criteria for this project, we decided to follow with the **Random Forest** model.
 
@@ -98,10 +98,10 @@ According to the results and the previously criteria for this project, we decide
 
 <center><img src="fire_extinguishing_project_files/figure-gfm/unnamed-chunk-34-1.png"></center><br>
 
-As we could previously observe in our exploratory analysis, the feature `DESIBEL` has a smaller effect on the prediction model. For this reason, we will not consider it in our final model.
+As we could previously observe in our exploratory analysis, the feature `DESIBEL` has a smaller effect on the prediction model. For this reason, we did not consider it in our final model.
 
 # Optimizing the chosen model
 
-For our last step, we will train our final prediction model and evaluate its response.
+For our last step, we trained our final prediction model and evaluated its response.
 
-We were able to slight improve our **Precision** metric and achieved a value of **96.9%**. The model is now ready to be deployed to operational usage.
+We were able to slight improve our **Precision** metric and achieved a value of **96.9%**. The model was now ready to be deployed to operational usage.
