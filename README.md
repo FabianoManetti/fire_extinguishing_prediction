@@ -6,4 +6,4 @@
 </div>
 
 
-**This is a project of the first training course of (https://www.datascienceacademy.com.br/) Data Scientist program.**
+**This is a project of the first training course of https://www.datascienceacademy.com.br/ Data Scientist program.**
