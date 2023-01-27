@@ -36,7 +36,7 @@ The dataset was obtained as a result of the extinguishing tests of four differen
 
 <center><img src="fire_extinguishing_project_files/figure-gfm/unnamed-chunk-19-1.png"></center><br>
 
-We can see that there is a slight negative correlation between `AIRFLOW` and `FREQUENCY` and that **the highest the `AIRFLOW`, the highest the probability of a positive `STATUS`**.
+We can see that there is a slight negative correlation between `AIRFLOW` and `FREQUENCY` and that **the higher the `AIRFLOW`, the higher the probability of a positive `STATUS`**.
 
 * Relation between `DISTANCE` and `AIRFLOW` categorized by `STATUS` of extinguishing
 
