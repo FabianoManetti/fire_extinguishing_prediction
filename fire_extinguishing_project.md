@@ -277,7 +277,7 @@ ggplot(dataset, aes(x = FREQUENCY, y = AIRFLOW, colour = STATUS)) + geom_point()
 ![](fire_extinguishing_project_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
 
 We can see that there is a slight negative correlation between `AIRFLOW`
-and `FREQUENCY` and that **the highest the `AIRFLOW`, the highest the
+and `FREQUENCY` and that **the higher the `AIRFLOW`, the higher the
 probability of a positive `STATUS`**.
 
 - Relation between `FREQUENCY` and `DESIBEL` categorized by `STATUS` of
