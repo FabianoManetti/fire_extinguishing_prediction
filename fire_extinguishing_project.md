@@ -28,11 +28,11 @@ different fuel flames with a sound wave extinguishing system.
 # 3. Setting working directory
 
 ``` r
-setwd("C:/Users/fabia/OneDrive/Área de Trabalho/Arquivos/Data_Science/DSA/Big_Data_R_Azure/fire_extinguishing_prediction")
+setwd("C:/Users/fabiano/OneDrive/Área de Trabalho/Arquivos/Data_Science/DSA/Big_Data_R_Azure/fire_extinguishing_prediction")
 getwd()
 ```
 
-    ## [1] "C:/Users/fabia/OneDrive/Área de Trabalho/Arquivos/Data_Science/DSA/Big_Data_R_Azure/fire_extinguishing_prediction"
+    ## [1] "C:/Users/fabiano/OneDrive/Área de Trabalho/Arquivos/Data_Science/DSA/Big_Data_R_Azure/fire_extinguishing_prediction"
 
 # 4. Importing libraries
 
