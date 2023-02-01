@@ -1,4 +1,4 @@
-# Prediction of Fire Extinguishing System Functionality
+# Fire Extinguishing System Prediction
 
 <div align="center">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"><img>
